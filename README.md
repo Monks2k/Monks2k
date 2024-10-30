@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning computer programming 
 - 
 - 📫 How to reach me : ianjimmy027@gmail.com
-- 😄 Pronouns: ...
 - ⚡ Fun fact: oh no! lets skip😅
 
 <!---
