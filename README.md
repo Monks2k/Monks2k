@@ -1,9 +1,8 @@
-- 👋 Hi, I’m @Monks2k
-- 👀 I’m interested in tech,gaming,anime and science fiction 
-- 🌱 I’m currently learning computer programming 
+- 👋 Hello, I’m ian james
+- I develop & design websites, specializing in Frontend website dev.
+- 👀 I’m interested in tech,gaming,science fiction and alot more but thats not why we're here ,
 - 
-- 📫 How to reach me : ianjimmy027@gmail.com
-- ⚡ Fun fact: oh no! lets skip😅
+- 📫 How to reach me : ianjimmy027@gmail.com,+254-115417304
 
 <!---
 Monks2k/Monks2k is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
