@@ -1,4 +1,4 @@
-Hello, I’m ian james
+Hello,I am ianjames
  I develop & design websites, specializing in Frontend website dev.
   interests include tech,gaming,science fiction and alot more but thats not why we're here ,
 - 📫 How to reach me : ianjimmy027@gmail.com, +254-115417304
